@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Alan
 
-- 🌱 Estudando HTML/CSS
+- 🌱 Estudando HTML/CSS e Javascript
 
 <div>
   <a href="https://github.com/AlanF-Oliveira/">
@@ -8,6 +8,7 @@
   <div style="display: inline_block"><br>  
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alan-CSS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="right" alt="Alan-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/olPXMBD.png"> 
 </div>
   
