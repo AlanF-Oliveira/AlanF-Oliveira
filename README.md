@@ -9,7 +9,7 @@
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Alan-pic" height="250" style="border-radius:50px;" src="https://programe.io/img/images/img_computador.png"> 
+  <img align="right" alt="Alan-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/olPXMBD.png"> 
 </div>
   
   ##
