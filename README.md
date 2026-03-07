@@ -44,7 +44,7 @@ Busco uma <strong>oportunidade de estágio em desenvolvimento backend</strong> o
 - LinkedIn: https://www.linkedin.com/in/alanfo/  
 - GitHub: https://github.com/AlanF-Oliveira 
 - Email: alanf.olive@gmail.com
-- Site: alanfo.work
+- Site: <a href="https://alanfo.work" target="_blank">alanfo.work</a>
 
 ---
 
