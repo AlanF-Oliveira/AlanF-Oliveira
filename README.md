@@ -10,7 +10,7 @@ Estudante de <strong>Engenharia de Software</strong> | Foco em <strong>Backend</
 
 - 💻 Desenvolvedor em formação com foco em backend  
 - ☕ Experiência prática com <strong>Java</strong> e <strong>Spring Boot</strong>  
-- 🗄️ Conhecimentos em <strong>MongoDB</strong> e bancos de dados relacionais  
+- 🗄️ Conhecimentos em <strong>PostgreSQL</strong> e <strong>MongoDB</strong> 
 - 📚 Estudando APIs REST, boas práticas, arquitetura e versionamento  
 - 🎯 Buscando evoluir para atuar profissionalmente como desenvolvedor backend  
 
@@ -44,7 +44,7 @@ Busco uma <strong>oportunidade de estágio em desenvolvimento backend</strong> o
 - LinkedIn: https://www.linkedin.com/in/alanfo/  
 - GitHub: https://github.com/AlanF-Oliveira 
 - Email: alanf.olive@gmail.com
-- Site: <a href="https://alanfo.work" target="_blank">alanfo.work</a>
+- Site: [alanfo.work](https://alanfo.work)
 
 ---
 
