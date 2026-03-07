@@ -35,7 +35,7 @@ Estudante de <strong>Engenharia de Software</strong> | Foco em <strong>Backend</
 
 ## Objetivo profissional
 
-Busco uma <strong>oportunidade de estágio em desenvolvimento backend</strong> onde eu possa aplicar meus conhecimentos, aprender com a equipe e crescer como desenvolvedor.
+Busco uma <strong>oportunidade de junior em desenvolvimento backend</strong> onde eu possa aplicar meus conhecimentos, aprender com a equipe e crescer como desenvolvedor.
 
 ---
 
