@@ -105,7 +105,7 @@ public class PortfolioController {
 
 | 📚 Curso / Graduação | 🏫 Instituição | 📅 Status |
 |---|---|---|
-| Bacharelado em Engenharia de Software | UniAméricas Descomplica | 🟢 Cursando (jan/2026) |
+| Bacharelado em Engenharia de Software | UniAmérica Descomplica | 🟢 Cursando (jan/2026) |
 | Combo Fullstack Java | Javanauta Academy | 🟡 Em andamento |
 
 ---
