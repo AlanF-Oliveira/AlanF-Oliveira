@@ -155,8 +155,6 @@ public class AlanFerreira {
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlanF-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanF-Oliveira&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
-
 </div>
 
 <div align="center">
