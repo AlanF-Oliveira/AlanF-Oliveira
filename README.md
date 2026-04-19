@@ -52,6 +52,7 @@ public class PortfolioController {
 
 ### ⚙️ DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -74,80 +75,12 @@ public class PortfolioController {
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🔗 BFF Agendador de Tarefas
-> Camada de Backend for Frontend centralizando os microsserviços de Usuários, Tarefas e Notificações.
+📌 *Confira meus projetos fixados abaixo*
 
-**Destaques:**
-- Integração entre serviços via **OpenFeign**
-- Documentação com **Swagger/OpenAPI**
-- Ambiente local com **Docker Compose**
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Microsserviço de Autenticação
-> API completa de cadastro e gestão de usuários com autenticação segura.
-
-**Destaques:**
-- Autenticação com **JWT**
-- Criptografia de senhas com **BCrypt**
-- Persistência com **Spring Data JPA + PostgreSQL**
-
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📅 Microsserviço Agendador de Tarefas
-> API de gerenciamento de tarefas com agendamento e controle de status.
-
-**Destaques:**
-- CRUD completo com agendamento por data/hora
-- Status: `PENDENTE` → `NOTIFICADO` → `CANCELADO`
-- Autenticação via **JWT** integrada
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📧 Microsserviço de Notificações
-> Serviço de envio de e-mails com templates HTML.
-
-**Destaques:**
-- Templates HTML dinâmicos
-- Integrado ao ecossistema de microsserviços
-- Notificações automáticas por evento
-
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
----
-
-### 🌐 Portfólio Pessoal
-> Site publicado em [alanfo.dev](https://alanfo.dev) com apresentação profissional.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
