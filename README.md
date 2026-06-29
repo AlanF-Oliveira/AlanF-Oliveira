@@ -18,7 +18,7 @@
 
 ```java
 public class AlanFerreira {
-    private final String cargo    = "Desenvolvedor Back-end Java (Júnior)";
+    private final String cargo    = "Desenvolvedor Back-end Java";
     private final String cidade   = "Fortaleza, CE 🇧🇷";
     private final String foco     = "APIs REST · Microsserviços · Spring Boot";
     private final String buscando = "Equipes ágeis onde possa crescer e contribuir";
