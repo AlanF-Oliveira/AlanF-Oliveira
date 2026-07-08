@@ -14,15 +14,16 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 ```java
 public class AlanFerreira {
-    private final String cargo    = "Desenvolvedor Back-end Java";
-    private final String cidade   = "Fortaleza, CE 🇧🇷";
-    private final String foco     = "APIs REST · Microsserviços · Spring Boot";
-    private final String buscando = "Equipes ágeis onde possa crescer e contribuir";
-    private final String extra    = "Inglês intermediário | Disponibilidade imediata";
+    private final String cargo     = "Desenvolvedor Back-end Java";
+    private final String cidade    = "Fortaleza, CE 🇧🇷";
+    private final String formacao  = "Graduando em Engenharia de Software";
+    private final String foco      = "APIs REST · Microsserviços · Spring Boot";
+    private final String buscando  = "Equipes ágeis onde possa crescer e contribuir";
+    private final String extra     = "Inglês intermediário | Disponibilidade imediata";
 }
 
 @RestController
@@ -36,21 +37,21 @@ public class PortfolioController {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ☕ Back-end & Frameworks
+### Back-end & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ DevOps & Ferramentas
+### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,12 +62,12 @@ public class PortfolioController {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🌐 Front-end (Portfólio)
+### Front-end (Portfólio)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 💡 Conhecimentos Complementares
+### Conhecimentos Complementares
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,17 +76,17 @@ public class PortfolioController {
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 <div align="center">
 
-📌 *Confira meus projetos fixados abaixo*
+*Confira meus projetos fixados abaixo*
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -98,15 +99,6 @@ public class PortfolioController {
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AlanF-Oliveira&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8&stroke=0f3460" />
 
 </div>
-
----
-
-## 🎓 Formação & Aprendizado
-
-| 📚 Curso / Graduação | 🏫 Instituição | 📅 Status |
-|---|---|---|
-| Bacharelado em Engenharia de Software | UniAmérica Descomplica | 🟢 Cursando (jan/2026) |
-| [Programa de Acompanhamento Combo FullStack Java](https://javanauta.com.br/) | Javanauta Academy | 🟡 Em andamento |
 
 ---
 
